@@ -12,6 +12,7 @@ Beyond Numbers is an interactive data science dashboard exploring how economic a
 - Dynamic scatter plots highlighting the selected country
 - Bar chart comparing all six correlation coefficients
 - Descriptive statistics, including mean, median, standard deviation and quartiles
+<img width="792" height="587" alt="image" src="https://github.com/user-attachments/assets/f1dff8dd-2628-409b-8881-87c1f4abadeb" />
 
 ## Technologies
 
